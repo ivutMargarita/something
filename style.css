@@ -83,24 +83,24 @@ header {
   padding-bottom: 20px;
 }
 .dropdown a1:hover{
-  color: #ffe39b;
-  border-left: 2px solid #ffe39b;
+  color: #FFD21D;
+  border-left: 2px solid #FFD21D;
   padding-left: 15px;
 }
 .dropdown a2:hover{
-  color: #d7bffc;
-  border-left: 2px solid #d7bffc;
+  color: #FF931E;
+  border-left: 2px solid #FF931E;
   padding-left: 15px;
 }
 .dropdown a3:hover{
-  color: #bff9c2;
-  border-left: 2px solid #bff9c2;
+  color: #58DB40;
+  border-left: 2px solid #58DB40;
   padding-left: 15px;
 }
 
 .dropdown a4:hover{
-  color: #a4dfff;
-  border-left: 2px solid #a4dfff;
+  color: #81CDFF;
+  border-left: 2px solid #81CDFF;
   padding-left: 15px;
 }
 a {
@@ -282,24 +282,24 @@ footer{
   transition: all 0.3s ease;
 }
 .dropdown_menu a5:hover{
-  color: #ffe39b;
-  border-left: 2px solid #ffe39b;
+  color: #FFD21D;
+  border-left: 2px solid #FFD21D;
   padding-left: 10px;
 }
 .dropdown_menu a6:hover{
-  color: #d7bffc;
-  border-left: 2px solid #d7bffc;
+  color: #FF931E;
+  border-left: 2px solid #FF931E;
   padding-left: 10px;
 }
 .dropdown_menu a7:hover{
-  color: #bff9c2;
-  border-left: 2px solid #bff9c2;
+  color: #58DB40;
+  border-left: 2px solid #58DB40;
   padding-left: 10px;
 }
 
 .dropdown_menu a8:hover{
-  color: #a4dfff;
-  border-left: 2px solid #a4dfff;
+  color: #81CDFF;
+  border-left: 2px solid #81CDFF;
   padding-left: 10px;
 }
 a {
